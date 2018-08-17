@@ -1,0 +1,10 @@
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\bin\Debug\NumberBaseConverter.exe.config
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\bin\Debug\NumberBaseConverter.exe
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\bin\Debug\NumberBaseConverter.pdb
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.csprojAssemblyReference.cache
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.Properties.Resources.resources
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.csproj.GenerateResource.cache
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.csproj.CoreCompileInputs.cache
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.exe
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.pdb
+D:\OneDrive\Presonal Projects\NumberBaseConverter\NumberBaseConverter\obj\Debug\NumberBaseConverter.frmSolver.resources
